@@ -24,4 +24,4 @@ Artificial intelligence is used in many fields today and its importance is incre
 - Bünyamin Uçar (Fırat Üniversitesi Yazılım Mühendisliği Bölümü Lisans Öğrencisi)
 
 
-####Bu çalışma TÜBİTAK 1002-B programı kapsamında 123R008 numaralı proje bünyesinde desteklenmiştir.
+Bu çalışma TÜBİTAK 1002-B programı kapsamında 123R008 numaralı proje bünyesinde desteklenmiştir.
